@@ -1,0 +1,4 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}/linux",
+  "avdmanager.sdkManager": "/home/talha/Android/Sdk/cmdline-tools/latest/bin/apkanalyzer"
+}
